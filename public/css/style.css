@@ -144,7 +144,6 @@ body {
 
 .container {
   max-width: 40rem;
-  /* max-height: 50%; */
   margin: 0 auto;
   background-color: var(--CLR-NEUTRAL-LIGHT);
   display: grid;
