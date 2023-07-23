@@ -64,6 +64,8 @@ I learned that even something as simple as a product card here can have its chal
 
 One thing I know I need to work on is when to use defined width and dynaimic widths. For this project a fixed width was best. Over all though its been trial and error for me on using fixed vs dynamic width properties. I need to get better at knowing when to use which.
 
+I also need help with psudo elements. I wanted the cart icon to be a psudo element but had trouble getting it align center with the text vertically. Instead the wheel kept staying inline with the bottom of the text. Any feedback is welcome.
+
 ### Useful resources
 
 - [Google](https://www.google.com) - Google is amazing. Once you learn how to google. Your ability to develope grows. No one memorizes everything, but developing th skill of googling what you need is invaluable.
